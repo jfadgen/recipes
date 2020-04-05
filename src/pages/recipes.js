@@ -1,7 +1,9 @@
 import React from "react"
+import Layout from "../components/layout"
 import RecipeData from "../../content/recipes.yml"
 
 const YAMLbuildtime = () => (
+<Layout>
   <div key="recipe-list" className="row">
     <div className="col s12 m6">
     {RecipeData.map(node => (
@@ -9,6 +11,7 @@ const YAMLbuildtime = () => (
     ))}
     </div>
   </div>
+</Layout>
 )
 export default YAMLbuildtime
 
