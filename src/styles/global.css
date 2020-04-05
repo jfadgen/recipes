@@ -2,19 +2,13 @@ html {
   background-color: #f2f2f2;
 }
 
-.recipe-container {
-  background-color: white;
-  padding: 1rem;
+.recipe-section {
+  margin-top: 1rem;
 }
 
-.recipe-header {
-  margin-bottom: 1rem;;
-}
-
-.recipe-container ul {
+ul.recipe-list {
   padding-left: 1rem;
 }
-
-.recipe-container li {
+ul.recipe-list li {
   list-style-type: circle;
 }
