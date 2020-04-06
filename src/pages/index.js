@@ -9,6 +9,9 @@ export default () => (
     <div style={{ padding: "2rem" }}>
       <a className="waves-effect waves-light btn-large" href="/recipes">Recipes</a>
     </div>
+    <div>
+      <a className="waves-effect waves-light btn-large" href="/coocoocachoo">Coocoocachoo</a>
+    </div>
   </div>
 </Layout>
 )
