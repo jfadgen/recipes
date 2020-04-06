@@ -2,10 +2,6 @@ html {
   background-color: #f2f2f2;
 }
 
-main {
-  padding: 0 5rem;
-}
-
 /* Recipe */
 .recipe-section {
   margin-top: 1rem;
@@ -27,4 +23,16 @@ ul.recipe-list li {
 
 .brand-logo {
   text-indent: 1rem;
+}
+
+.card .card-image .card-title {
+  border-bottom: 1px solid #ddd;
+  color: inherit;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.card-content a {
+  word-break: break-all;
 }

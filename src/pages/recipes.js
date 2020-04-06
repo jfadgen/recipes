@@ -17,10 +17,13 @@ export default YAMLbuildtime
 
 function Recipe(props) {
   const recipe = props.recipe;
+  console.log(props)
   return (
-    <div key={recipe.title} className="card">
+    <div key={recipe.title} className="card" id={recipe.id}>
+        <div className="card-image">
+          <span className="card-title amber lighten-5">{recipe.title}</span>
+        </div>
       <div className="card-content ">
-        <span className="card-title">{recipe.title}</span>
         <span>From: <a href={recipe.reference}>{recipe.reference}</a></span>
 
         <div>{recipe.cooking_summary}</div>

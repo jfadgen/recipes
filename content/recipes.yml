@@ -1,4 +1,4 @@
-- ginger_cookies: 1
+- id: ginger_cookies
   title: Cat's Ginger Cookies
   reference: https://www.ricardocuisine.com/en/recipes/4116-molasses-cookies
   cooking_summary: 350˚F for 15 minutes
@@ -15,8 +15,8 @@
     - item: 1/2 cup (125 ml) molasses
     - item: 1 egg
     - item: 2 tablespoons (30 ml) milk
-- agave_chocolate_chip_cookies: 2
-  title: Agave Chocolate Chip Cookiees
+- id: agave_chocolate_chip_cookies
+  title: Agave Chocolate Chip Cookies
   reference: https://www.justapinch.com/recipes/dessert/cookies/agave-chocolate-chip-cookies.html
   cooking_summary: 350˚F for 12 minutes
   ingredients:
