@@ -17,7 +17,6 @@ export default YAMLbuildtime
 
 function Recipe(props) {
   const recipe = props.recipe;
-  console.log(props)
   return (
     <div key={recipe.title} className="card" id={recipe.id}>
         <div className="card-image">
