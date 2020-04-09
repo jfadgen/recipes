@@ -15,19 +15,27 @@ export default () => (
     <ul style={{ paddingLeft: "2rem" }}>
       <li>
         <h5>I am the Walrus</h5>
-       <iframe title="I am the Walrus" width="560" height="315" src="https://www.youtube.com/embed/UKIs1J_nB4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="video-container">
+          <iframe title="I am the Walrus" width="560" height="315" src="https://www.youtube.com/embed/UKIs1J_nB4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
       </li>
       <li>
         <h5>Mrs. Robinson</h5>
-        <iframe title="Mrs. Robinson" width="560" height="315" src="https://www.youtube.com/embed/9C1BCAgu2I8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="video-container">
+          <iframe title="Mrs. Robinson" width="560" height="315" src="https://www.youtube.com/embed/9C1BCAgu2I8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
       </li>
       <li>
         <h5>Alvin Stardust - My Coo Ca Cho</h5>
-        <iframe title="Alvin Stardust" width="560" height="315" src="https://www.youtube.com/embed/b0ZqNBd_orI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="video-container">
+          <iframe title="Alvin Stardust" width="560" height="315" src="https://www.youtube.com/embed/b0ZqNBd_orI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
       </li>
       <li>
         <h5>This Bloodhound gang song.</h5>
-        <iframe title="Bloodhound Gang" width="560" height="315" src="https://www.youtube.com/embed/db5Gq28rsRU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="video-container">
+          <iframe title="Bloodhound Gang" width="560" height="315" src="https://www.youtube.com/embed/db5Gq28rsRU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
       </li>
     </ul>
     </div>
