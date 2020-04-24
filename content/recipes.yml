@@ -92,3 +92,33 @@
    - item: 1 cup raisins
    - item: 2 tsp. lemon juice - optional
    - item: 1 pastry shell (9 inches), baked
+- id: pumpkin_almond_chocolate_chip_cookies
+  title: Pumpkin Almond Chocolate Chip Cookies
+  reference: http://thehealthyfamilyandhome.com/grain-free-vegan-pumpkin-chocolate-chip-cookies/
+  cooking_summary: 350˚F for 15 minutes
+  ingredients:
+    - item: 2 1/2 cups almond flour
+    - item: 1/2 cup pumpkin puree
+    - item: 2 tablespoons coconut oil (melted/liquid)
+    - item: 1/4 cup maple syrup (or sweetener of your choice)
+    - item: 1/2 teaspoon baking soda
+    - item: 1/4 teaspoon salt
+    - item: 1 teaspoon cinnamon powder
+    - item: 1 teaspoon pumpkin spice (cinnamon, nutmeg, ginger, cloves)
+    - item: 1 teaspoon vanilla extract
+    - item: 1 cup chocolate chips
+- id: banana_blueberry_bread
+  title: Banana Blueberry Bread
+  reference: Medical Medium via Instagram
+  cooking_summary: 350˚F for 40 minutes
+  ingredients:
+    - item: 3 ripe bananas
+    - item: 1/4 cup maple syrup
+    - item: 1/4 cup coconut sugar
+    - item: 1 tsp alcohol-free vanilla extract
+    - item: 1/2 cup unsweetened almond milk
+    - item: 2 cups gluten-free oat flour
+    - item: 1/2 tsp sea salt
+    - item: 1 tsp baking powder
+    - item: 1/2 tsp baking soda
+    - item: 1/2 cup frozen wild blueberries
