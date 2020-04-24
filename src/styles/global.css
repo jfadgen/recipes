@@ -28,7 +28,9 @@ ul.recipe-list li {
 .card .card-image .card-title {
   border-bottom: 1px solid #ddd;
   color: inherit;
+  color: teal;
   display: inline-block;
+  font-weight: 500;
   position: relative;
   width: 100%;
 }

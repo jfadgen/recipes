@@ -5,7 +5,7 @@ import RecipeData from "../../content/recipes.yml"
 const YAMLbuildtime = () => (
 <Layout>
   <div key="recipe-list" className="row">
-    <div className="col s12 m6">
+    <div className="col s12 m12">
     {RecipeData.map(node => (
       <Recipe recipe={node}/>
     ))}
@@ -20,7 +20,7 @@ function Recipe(props) {
   return (
     <div key={recipe.title} className="card" id={recipe.id}>
         <div className="card-image">
-          <span className="card-title amber lighten-5">{recipe.title}</span>
+          <span className="card-title green lighten-5">{recipe.title}</span>
         </div>
       <div className="card-content ">
         <span>From: <a href={recipe.reference}>{recipe.reference}</a></span>

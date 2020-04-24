@@ -1,0 +1,10 @@
+.index-menu a {
+  font-size: 2rem;
+  height: 6rem;
+  line-height: 6rem;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+.index-menu div {
+  padding: 2rem;
+}
